@@ -39,15 +39,14 @@ Make sure the following tools are installed on your system:
 
 ## Instalation
 
-'git clone https://github.com/yourusername/kevin-fetch.git'
-'cd kevin-fetch'
-
-'run ./kevin-fetch.sh'
+- `git clone https://github.com/yourusername/kevin-fetch.git`
+- `cd kevin-fetch`
+-`run ./kevin-fetch.sh`
 
 ## Usage
 
 Once installed, run it from your terminal:
-'kevin-fetch'
+`kevin-fetch`
 
 ---
 
