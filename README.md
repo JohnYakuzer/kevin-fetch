@@ -60,5 +60,6 @@ Example:
 - SHOW_MEMORY_USAGE=true
 - SHOW_DISK_USAGE=false
 
+NOTE: config file is automaticly being crated upon first time running the script. You can, if you wish to create it manualy as well.
 
 
