@@ -53,7 +53,7 @@ Once installed, run it from your terminal:
 ## Configuration
 
 You can enable or disable features by editing:
-'~/.config/kevin-fetch/kevin-fetch.conf'
+`~/.config/kevin-fetch/kevin-fetch.conf`
 
 Example:
 - SHOW_CPU_INFO=true
