@@ -39,27 +39,27 @@ Make sure the following tools are installed on your system:
 
 ## Instalation
 
-git clone https://github.com/yourusername/kevin-fetch.git
-cd kevin-fetch
+'git clone https://github.com/yourusername/kevin-fetch.git'
+'cd kevin-fetch'
 
-run ./kevin-fetch.sh
+'run ./kevin-fetch.sh'
 
 ## Usage
 
 Once installed, run it from your terminal:
-kevin-fetch
+'kevin-fetch'
 
 ---
 
 ## Configuration
 
 You can enable or disable features by editing:
-~/.config/kevin-fetch/kevin-fetch.conf
+'~/.config/kevin-fetch/kevin-fetch.conf'
 
 Example:
-SHOW_CPU_INFO=true
-SHOW_MEMORY_USAGE=true
-SHOW_DISK_USAGE=false
+- SHOW_CPU_INFO=true
+- SHOW_MEMORY_USAGE=true
+- SHOW_DISK_USAGE=false
 
 
 
