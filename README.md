@@ -39,7 +39,7 @@ Make sure the following tools are installed on your system:
 
 ## Instalation
 
-- `git clone https://github.com/yourusername/kevin-fetch.git`
+- `git clone https://github.com/JohnYakuzer/kevin-fetch.git`
 - `cd kevin-fetch`
 -`run ./kevin-fetch.sh`
 
